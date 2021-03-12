@@ -1,0 +1,11 @@
+Composite pattern
+
+This pattern is used to unify or enclose a whole set of classes, such that all
+the classes or objects im the "composition" can use the same interface's method.
+
+This pattern is usually used in tree or graph structure when we merge nodes into a whole
+set of nodes or integrated tree/graph data structure. By doing this, we can use
+just one interface to operate on all the nodes on the tree or graph.
+
+
+

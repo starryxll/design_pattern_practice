@@ -1,0 +1,6 @@
+This design pattern is used to dynamically change or add functionality of a object by
+    compositing objects
+
+Golang implements the decorator pattern with non-immersed interface and anonymous composition
+With anonymous composition, we do no need to explicitly define method of transforming the object.
+

@@ -1,0 +1,3 @@
+The bridge can separate abstract layer and specific implementation layer such that
+we can expand these two layers independently.
+

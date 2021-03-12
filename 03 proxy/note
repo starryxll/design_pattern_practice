@@ -1,0 +1,6 @@
+This pattern is much easier than previous learned patterns
+
+This is usually used in deferred operation, or attached operations before or
+after the "real" operation. In other words, we want to expand/attach some functionality
+to the original functions
+
